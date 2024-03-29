@@ -1,14 +1,1 @@
-{
-    "type": "service_account",
-    "project_id": "modern-media-394015",
-    "private_key_id": "5b46776df0044824cae24b31a8f99dde34a4efe8",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDI5OAhF+aNGQyo\nj9gZaOJnCUKKIzsKSPl0YSxWEEmA69Ek+oKOTdIJ/JrHWpTO7D/HBbVhsJI4FF7w\nYpXZiK4LGTxYlkhBh0eWYm+e/by3MPUFK8cedMj8bTMsovdYzQcPQWhI4+A6AP5y\nKKPzrSNz/tBlxTwQ33OlxAlYMsTf0PL9D7SwuFSk8AoZ/duTroEMBhiGaGbuCsZ0\nMNgNKeYEWmilrDVBr6ZGeZm+A80gj6zwHOqHrrHB5/vtwdPRFvbCbQyxnJ/U/U9S\nTWh2fr+LGCyU34QMM8+8w0xelJT8gJLslsVLzc99cxS6Oo+pht7KHpPckqg6+Ner\nSe2v+Z0rAgMBAAECggEASWeL17u+c77755mLuhkfZMu24veliogIkjQxeY8A9Jj1\n9h+M1cdsoFaLDZ208vjTAvs8f+H/Q3t6BzbWj0JIaejCKpJa+4qdJz93jq4jJwK9\n/LI20xOUHtwdz0kKvQlJc5MQMlYFZ9xWHMtpwM96PVeVuSH85SNow+CiE3aVhjvS\nkS2JoaKfgj0Id4H7q92Cppf5IO51zuvLA1IrzMubHgHY952J3nqwScpQqY0f6UTi\ncTgOH4s7nV2T2QtpMslWWTB6LNTtAONdZHTuqt4ZpQsVzrZ8o+4hojaoxBbw9Bdu\n6czOCrtIzZm0irnmMMlMkrbjDn5fwcDrDPNav1UQnQKBgQDwlGvRx5Tjmg/FtvJ8\nuKdAD2nSBxEY57tvgMZIPGPNHOPUE7IQjQIW4o0dVAbjuJMHZ64fRrzJ5DEyyxPk\nkEQQtUlTAI6IO1oqxlMf6yVJXlrVWq6jRUpXtqHrhAHxbLVOvh+iYEgbSkAG4FEA\n+uwAz+NF6BcBj2SpcZB9Df9K1QKBgQDVxURSGchntLBVh1bVNNOaQFVbiu23r3mr\nXJ6V9oHGdpJp0GCjgW1W5YjFWJSrSkp3QK78mvXhgm+9XSoUqvgqDaTUojtJvDeT\ny0RtDfUvQ15yuFdLwJoITJlY6deLRyMjBxx/q53IrGya2VMyRtkzFZmJ0Va30l9u\nLsta6blH/wKBgARE7gDkBM1hL4R3safq8vTdESir/W6uthHNfDdN8wtxxs09qDxI\n9E+Jp61sj069OMa53UoqzDDc/s6C8hBtSvfs76csbFsYiooVyOXZG2lI5l3A5TZ6\nhU43LHpsdkhdgH4sO417Hex2DdrRYj6dNVDyX3sfGkFp1QR4wnKlq/EdAoGAMvCk\nHDBaqiPLlUX/8iR5fBtye7L6fLgK9UPH4pJwUFu2/hISxUO1S2y9D9HQ85RrdEls\nqXM/vnI3sFdADNbE9jh0G9tg52w7jjN05cvarl2OZyX4X2vRCMNAE4j9vQnBnLo4\nF1BM9CHqa2f4RFXPsjWmdcn1sS4nYXkzKkHhzf8CgYEA3QFgu4Ec9zWoCvwUqQ9D\nqOkK5a5dZUC5WPp8uPsNV9Io1uFIH7qtqvtsR/7SkWlaMh8E2G2V7dnnRGbNDbY/\nE3ytGkdcoXiI7f9fwmNO3RSEYfjF6YGuE96FmIjk6seexla0qeMw9Ggaavo8qzyi\nDd1ySgf/KTsiugI8uLJKjSk=\n-----END PRIVATE KEY-----\n",
-    "client_email": "dinesh@modern-media-394015.iam.gserviceaccount.com",
-    "client_id": "116985741176291019563",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dinesh%40modern-media-394015.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
-  }
-  
+your key.json
